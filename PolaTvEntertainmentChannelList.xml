@@ -77,5 +77,9 @@
 			<title>[COLOR white] [B]RBS TV[/B] [/COLOR]</title>
 			<link>http://200.194.238.226:5000/live/000x_rbs/playlist.m3u8</link>
 		</item>
+		<item>
+			<title>[COLOR white] [B]BIG BROTHER[/B] [/COLOR]</title>
+			<link>rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream</link>
+		</item>
 	</items>
 </channel>
