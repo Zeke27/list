@@ -29,5 +29,15 @@
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<link>rtsp://stream.tn.com.ar/live/tnhd1</link>	
 		</item>
+		<item>
+			<title>[COLOR white] [B]CANAL 13 (Argentina)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]C5N (Argentina)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>rtmp://c5n.stweb.tv:1935/c5n/live</link>	
+		</item>
 	</items>
 </channel>
