@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channel>
     <name>[COLOR white] [B]Esportes[/B] [/COLOR]</name>
-    <thumbnail>http://i.imgur.com/FvNM0bm.png</thumbnail>
-    <fanart>http://i.imgur.com/FvNM0bm.png</fanart>
+    <thumbnail>http://i.imgur.com/9ZIp5Zu.png</thumbnail>
+    <fanart>http://i.imgur.com/9ZIp5Zu.png</fanart>
 	<items>
-		<fanart>http://i.imgur.com/FvNM0bm.png</fanart>	
 		<item>
+			<link>http://i.imgur.com/cFP1NQA.png</link><thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<title>[COLOR white] [B]SPORT TV[/B] [/COLOR]</title>
 			<link>http://31.204.128.127:8081/live/sportv/playlist.m3u8</link>	
 		</item>
