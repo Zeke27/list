@@ -10,6 +10,11 @@
 			<link>http://213.163.65.116:8081/live/cartoon/playlist.m3u8</link>	
 		</item>
 		<item>
+			<title>[COLOR white] [B]TV MORENA[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8</link>	
+		</item>
+		<item>
 			<title>[COLOR white] [B]TV BRASIL[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<link>http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8</link>
@@ -123,6 +128,11 @@
 			<title>[COLOR white] [B]BH NEWS[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<link>http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]TV GERAL[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://fms3.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8</link>
 		</item>
 	</items>
 </channel>
