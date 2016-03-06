@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <name>[COLOR red] [B]Adultos[/B] [/COLOR]</name>
+    <thumbnail>http://i.imgur.com/KIahmzP.png</thumbnail>
+    <fanart>http://i.imgur.com/KIahmzP.png</fanart>
+	<items>
+		<item>
+			<title>[COLOR white] [B]VENUS CH[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>rtmp://edge2.everyon.tv/etv2/phd1005</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]JASMIN TV [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8</link>
+		</item>
+	</items>
+</channel>
