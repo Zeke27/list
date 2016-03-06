@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <name>[COLOR red] [B]Internacional[/B] [/COLOR]</name>
+    <thumbnail>http://i.imgur.com/KIahmzP.png</thumbnail>
+    <fanart>http://i.imgur.com/KIahmzP.png</fanart>
+	<items>
+		<item>
+			<title>[COLOR white] [B]LONDON LIVE (inglês)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8</link>	
+		</item>
+	</items>
+</channel>
