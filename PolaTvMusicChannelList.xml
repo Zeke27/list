@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <name>[COLOR white] [B]Música[/B] [/COLOR]</name>
+    <thumbnail>http://i.imgur.com/KIahmzP.png</thumbnail>
+    <fanart>http://i.imgur.com/KIahmzP.png</fanart>
+	<items>
+		<item>
+			<title>[COLOR white] [B]AFRO MUSIC[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]M6 MUSIC [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]VEVO TV 1 HD[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]VEVO TV 2 HD [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]VEVO TV 3 HD [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]365 MUSIC [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://stream.365music.ru:8000/365music/365music.m3u8</link>
+		</item>
+	</items>
+</channel>
