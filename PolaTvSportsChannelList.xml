@@ -29,5 +29,10 @@
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<link>http://213.163.65.116:8081/live/foxsport/playlist.m3u8</link>
 		</item>
+		<item>
+			<title>[COLOR white] [B]ALL SPORT [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
+		</item>
 	</items>
 </channel>
