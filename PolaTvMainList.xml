@@ -2,25 +2,25 @@
 
 <items>
 	<item>
-	<title>[COLOR Salmon] [B]Esportes[/B] [/COLOR]</title>
+	<title>[COLOR white] [B]Esportes[/B] [/COLOR]</title>
 	<link>http://i.imgur.com/FvNM0bm.png</link><thumbnail>http://i.imgur.com/FvNM0bm.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	<externallink>https://raw.githubusercontent.com/Zeke27/list/master/PolaTvSportsChannelList.xml</externallink>
 	</item>
 
 	<item>
-	<title>[COLOR fuchsia] [B]Entretenimento[/B] [/COLOR]</title>
+	<title>[COLOR white] [B]Entretenimento[/B] [/COLOR]</title>
 	<link>http://i.imgur.com/FvNM0bm.png</link><thumbnail>http://i.imgur.com/FvNM0bm.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	<externallink>https://raw.githubusercontent.com/Zeke27/list/master/PolaTvEntertainmentChannelList.xml</externallink>
 	</item>
 
 	<item>
-	<title>[COLOR fuchsia] [B]Filmes e séries[/B] [/COLOR]</title>
+	<title>[COLOR white] [B]Filmes e séries[/B] [/COLOR]</title>
 	<link>http://i.imgur.com/FvNM0bm.png</link><thumbnail>http://i.imgur.com/FvNM0bm.png</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 	<externallink>http://adrian.kodistream.info/adryan/tv.xml</externallink>
 	</item>
 
 	<item>
-	<title>[COLOR fuchsia] [B]Internacional[/B] [/COLOR]</title>
+	<title>[COLOR white] [B]Internacional[/B] [/COLOR]</title>
 	<link>http://i.imgur.com/FvNM0bm.png</link><thumbnail>http://i.imgur.com/FvNM0bm.png</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
 	<externallink>http://adrian.kodistream.info/adryan/esp.xml</externallink>
 	</item>
