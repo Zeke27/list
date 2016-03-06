@@ -5,8 +5,8 @@
     <fanart>http://i.imgur.com/9ZIp5Zu.png</fanart>
 	<items>
 		<item>
-			<link>http://i.imgur.com/cFP1NQA.png</link><thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<title>[COLOR white] [B]SPORT TV[/B] [/COLOR]</title>
+			<link>http://i.imgur.com/cFP1NQA.png</link><thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<link>http://31.204.128.127:8081/live/sportv/playlist.m3u8</link>	
 		</item>
 		<item>
