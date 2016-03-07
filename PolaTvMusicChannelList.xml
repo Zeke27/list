@@ -7,46 +7,55 @@
 		<item>
 			<title>[COLOR white] [B]AFRO MUSIC[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8</link>	
 		</item>
 		<item>
 			<title>[COLOR white] [B]M6 MUSIC [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]VEVO TV 1 HD[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]VEVO TV 2 HD [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]VEVO TV 3 HD [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]365 MUSIC [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://stream.365music.ru:8000/365music/365music.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]DREAM TV [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]ESKA BEST MUSIC [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>rtmp://stream.smcloud.net/live2/best/best_720p</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]ESKA ROCK [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p</link>
 		</item>
 	</items>
