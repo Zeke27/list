@@ -7,131 +7,157 @@
 		<item>
 			<title>[COLOR white] [B]CARTOON NETWORK[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://213.163.65.116:8081/live/cartoon/playlist.m3u8</link>	
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV MORENA[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://wowza2.netpoint.com.br/viamorena/live/playlist.m3u8</link>	
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV BRASIL[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]REDE TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]BAND[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV NBR[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvnbr/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]RECORD[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://cast2.player.tv.br:1935/8126/8126/playlist.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]SHOP TIME[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://liveabr2.sambatech.com.br/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]ECONOMICO TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://213.13.26.11:1935/live/etv_direto/livestream.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]HORSE CHANNEL TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://570230807.e.849169298.r.idglobalcdn.net:80/849169298/horsebrasil/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV CINEC[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://servidorcoretv.com.br:1935/tvcinec/tvcinec/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV DOURADO[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://servidorcoretv.com.br:1935/tvdourado/tvdourado/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV SERRAMAR[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://servidorcoretv.com.br:1935/tvserramar/tvserramar/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV WEB CIDADE PB[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://streaming42.sitehosting.com.br:1935/tvweb/tvweb/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV CANDIDES MG[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://streaming49.sitehosting.com.br:1935/candides/candides_720p/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TVC JAU SP [/B][/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://streaming49.sitehosting.com.br:1935/tvcjau/tvcjau/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV BRASIL ESPERANCA SC[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://streaming50.sitehosting.com.br:1935/francelino/francelino/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]RECORD SP[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://31.204.128.127:8081/live/record/playlist.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]RBS TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://200.194.238.226:5000/live/000x_rbs/playlist.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]BIG BROTHER[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]CHEF TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]GLOBO[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://art.nextv.ca:80/nextv/globo/index.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]LIVRE TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://173.236.10.10:1935/livretv/livretv/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV ESCOLA[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]BH NEWS[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://edge.z1on.com:1935/1700/3125/3125-hotmedia.sdp/chunklist_w125301522.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]TV GERAL[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://fms3.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8</link>
 		</item>
 	</items>
