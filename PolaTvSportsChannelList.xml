@@ -5,39 +5,46 @@
     <fanart>http://i.imgur.com/KIahmzP.png</fanart>
 	<items>
 		<item>
-			<title>[COLOR white] [B]ESPN[/B] [/COLOR]</title>
+			<title>[COLOR white] [B]ALL SPORT [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
-			<link>http://213.163.71.139:8081/live/espnbr/playlist.m3u8</link>	
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]SPORT TV[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://31.204.128.127:8081/live/sportv/playlist.m3u8</link>	
 		</item>
 		<item>
 			<title>[COLOR white] [B]SPORT TV1 [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://213.163.65.116:8081/live/sportv/playlist.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]SPORT TV2[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://31.204.128.112:8081/live/sportv2/playlist.m3u8</link>
 		</item>
 		<item>
 			<title>[COLOR white] [B]COMBATE [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]ESPN[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://213.163.71.139:8081/live/espnbr/playlist.m3u8</link>	
 		</item>
 		<item>
 			<title>[COLOR white] [B]FOX SPORT [/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://213.163.65.116:8081/live/foxsport/playlist.m3u8</link>
-		</item>
-		<item>
-			<title>[COLOR white] [B]ALL SPORT [/B] [/COLOR]</title>
-			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
-			<link>http://173.236.10.10:1935/dgrau/dgrau/live.m3u8</link>
 		</item>
 	</items>
 </channel>
