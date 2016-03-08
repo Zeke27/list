@@ -83,7 +83,7 @@
 			<link>http://streaming49.sitehosting.com.br:1935/candides/candides_720p/live.m3u8</link>
 		</item>
 		<item>
-			<title>[COLOR white] [B]TVC JAU SP [/B][/COLOR]</title>
+			<title>[COLOR white] [B]TVC JAU [/B][/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://streaming49.sitehosting.com.br:1935/tvcjau/tvcjau/live.m3u8</link>
@@ -147,6 +147,12 @@
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]TV ABCD[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://streaming50.sitehosting.com.br:1935/tvabcd/tvabcd/live.m3u8</link>
 		</item>
 	</items>
 </channel>
