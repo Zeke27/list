@@ -106,5 +106,11 @@
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/19-live.m3u8</link>	
 		</item>
+		<item>
+			<title>[COLOR white] [B]TV CHILE (Chile)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://edge-51-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8</link>	
+		</item>
 	</items>
 </channel>
