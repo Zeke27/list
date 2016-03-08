@@ -136,11 +136,17 @@
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://fms3.tacitus.com.br:1935/tvgeral/tvgeral/live.m3u8</link>
 		</item>
-			<item>
+		<item>
 			<title>[COLOR white] [B]MULTI TV CIDADES[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8</link>
+		</item>
+		<item>
+			<title>[COLOR white] [B]TERRA VIVA[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8</link>
 		</item>
 	</items>
 </channel>
