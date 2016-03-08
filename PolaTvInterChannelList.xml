@@ -29,6 +29,12 @@
 			<link>https://video01-lon.streamup.com/app/max2a115s-stream_aac/playlist.m3u8</link>	
 		</item>
 		<item>
+			<title>[COLOR white] [B]24h RTVE (Espanha)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8</link>	
+		</item>
+		<item>
 			<title>[COLOR white] [B]TN 24 (Argentina)[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
