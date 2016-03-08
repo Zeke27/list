@@ -95,12 +95,6 @@
 			<link>http://31.204.128.127:8081/live/record/playlist.m3u8</link>
 		</item>
 		<item>
-			<title>[COLOR white] [B]RBS TV[/B] [/COLOR]</title>
-			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
-			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
-			<link>http://200.194.238.226:5000/live/000x_rbs/playlist.m3u8</link>
-		</item>
-		<item>
 			<title>[COLOR white] [B]BIG BROTHER[/B] [/COLOR]</title>
 			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
