@@ -58,5 +58,11 @@
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8</link>	
 		</item>
+		<item>
+			<title>[COLOR white] [B]AL NABAA TV (Libya)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru</link>	
+		</item>
 	</items>
 </channel>
