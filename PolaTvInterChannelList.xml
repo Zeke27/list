@@ -58,5 +58,47 @@
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru</link>	
 		</item>
+		<item>
+			<title>[COLOR white] [B]WEATHER CHANNEL (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://kalsegsec-a.akamaihd.net/dc-1/m/ny-live-publish1/kLive/smil:1_oorxcge2_publish.smil/chunklist_b2096000.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]VERSUS HD (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]FOOTBALL REPORT (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://fubotv-origin.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:FootballReport_all/chunklist.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]NFL NOW (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]BYU TV (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/index_840_av-b.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]ABC NEWS (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>	
+		</item>
+		<item>
+			<title>[COLOR white] [B]BLOOMBERG (USA)[/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$</link>	
+		</item>
 	</items>
 </channel>
