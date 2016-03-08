@@ -34,5 +34,11 @@
 			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
 			<link>http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8</link>
 		</item>
+		<item>
+			<title>[COLOR white] [B]FOX SPORT [/B] [/COLOR]</title>
+			<thumbnail>http://i.imgur.com/cFP1NQA.png</thumbnail>
+			<fanart>http://i.imgur.com/OrO5LP5.jpg</fanart>
+			<link>http://server1.livestreaming.ninja:1935/live/foxsports1/livestream.m3u8</link>
+		</item>
 	</items>
 </channel>
